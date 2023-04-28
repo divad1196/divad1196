@@ -39,19 +39,18 @@ I am available to anyone having a question about Computer science (as long as I 
 
 
 ## Programming languages
-* **C++**: My first love. I still practice it by myself but never have the luck to work professionnaly on it.
+* **C++**: My first love. I still practice it by myself but never had the luck to work professionnaly on it.
   I have used Qt, SFML a long time ago and did a lot of Data Structure and Algorithm on it.
 * **Python**: My default language. I think I master all of its current features.
-  * Web: I use Flask/Fastapi the most, but I did use Django.
-  * I mainly create tools and scripting to manage system and APIs.
-  * I also use it for Data management (gathering, cleaning, storing, ... sometimes ploting) I use panda, numpy, request, json, lxml, ... a lot.
+  * Web: I use Flask/Fastapi the most, but I also did use Django.
+  * I mainly create tools and scripting to manage systems and APIs.
+  * I also use it for Data management (gathering, cleaning, storing, ... sometimes ploting) using panda, numpy, request, json, lxml, ....
+* **Rust**: This is now my favorite language. I love the macros, the syntax and how the functional paradigm is used. I am now almost as proefficient using Rust than using Python.
 * **Javascript**: I have used vanilla javascript and jquery a lot (not by choice). I often use it when I need a graphical interface.  
   I have used Vuejs (default choice), React (liked it best), AlpineJs (for POC-ing, or when I don't need much)
-* **Java**: I did it a lot (almost every coding course for 4 years used java).  
-  I personnally don't like it even if I understand why it is used professionally and would recommend it depending the team and project.
+* **Java**: I did it a lot (almost every coding course for 4 years used java). I used SpringBoot and Swing libraries/frameworks and did a lot of DSA.
 * **Bash**: Fluent with basic scripting, loops, streams, ... I use find/grep/sed/awk/... and many others regulary (I may need to have a refresh sometimes)
-* **Rust**: I know understand all the basics. I am still missing practice but I have projects ongoing in order to fix that.  
-  This is also an opportunity to try wasm with yew
+
 
 I also tried ruby (+ruby-on-rails), php, haskell, elixir and golang one 1 simple projects each. I undestand the notions and would be able to learn them fast.
 I have learned all languages I know on the fly to achieve projects and master them after a few weeks of practice. Therefore, I am pretty confident in my capacity to learn new languages.

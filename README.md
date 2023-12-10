@@ -8,7 +8,7 @@ I am available to anyone having a question about Computer science (as long as I 
   But once the design provided, I am able to reproduce it and discuss the UX.
 * Linux Sysadmin
 * Cloud Engineer
-* Security Engineer (Finishing my degree)
+* Diplomed Security Engineer
 * Data Management (gathering, cleaning, ... but not analysing for the moment)
 * Database:
   * I master postgresql(postgresql' sql, shell, ORM) and have set up a cluster once (PGpool2, repmgr).

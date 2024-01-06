@@ -4,26 +4,23 @@ I am available to anyone having a question about Computer science (as long as I 
 
 ## Profil summary
 ### Main skills
-* Real **fullstack developper** except for designing the frontend myself: I don't have any artistic talent.
-  But once the design provided, I am able to reproduce it and discuss the UX.
-* Linux Sysadmin
-* Cloud Engineer
 * Diplomed Security Engineer
-* Data Management (gathering, cleaning, ... but not analysing for the moment)
-* Database:
-  * I master postgresql(postgresql' sql, shell, ORM) and have set up a cluster once (PGpool2, repmgr).
-  * Generic SQL and RDBMS (Postgresql, Mariadb, ...)
-  * NoSQL: Mongodb
-* Good networking knowledges (not enough to be called network engineer)
+* Fullstack developer
+* Software engineer
+* Linux Sysadmin
+* DevOps Engineer
+* Cloud Engineer (AWS)
+* Data Management
+* Postgresql Database Manager
+* Good networking knowledges
 
-### Skills I absolutely don't have/master enough
-* I have used Windows a bit, but I am not comfortable with it (usage and administration).
+### Skills I don't have/master enough
 * I am NOT a designer
-* I am NOT a Networking engineer (I won't manage your network good enough to replace one)
+* Not fluent on Windows system administration and Powershell
 
 ### Soft Skills
 * Quick learner
-* Able to think differently/out-of-the-box and challenge ideas in order to find the best solution
+* Able to think out-of-the-box and challenge ideas in order to find the best solution
 
 
 ## Social Media
